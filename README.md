@@ -4,6 +4,8 @@ A Streamlit app for exploring real IPL player data: search, compare, career tren
 machine-learning-powered predictions, clustering, similarity search, a team balance
 analyzer, a small natural-language query tool, and persistent accounts/favorites.
 
+🌐 Live Demo - (https://crickboard-cricket-player-stats-analytics-git-9.streamlit.app)
+
 ## Features
 
 **Core**
